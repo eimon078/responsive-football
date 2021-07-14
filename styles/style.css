@@ -127,7 +127,7 @@ header{
     display: flex;
     justify-content: center;
     background-color: #2D25A0;
-    outline: 2px solid red;
+    
 }
 .nav-link{
     display: flex;
@@ -168,7 +168,7 @@ header{
     justify-content: center;
     align-items: center;
     margin-bottom: 70px;
-    outline: 2px solid red;
+    
 
 }
 .top-left-right{
@@ -224,7 +224,7 @@ header{
     align-items: center;
     /* margin-right: 210px;
     margin-left: 180px; */
-    outline: 2px solid yellow;
+    
 }
 
 .mid-container{
@@ -236,14 +236,12 @@ header{
     grid-column-gap: 30px;
     color:black;
     /* width: 1161px; */
-    outline: 2px solid red;
 }
 .player{
     width: 330px;
     height: 474px;
     padding: 15px; 
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
-    outline: 2px solid yellow;
     
 }
 .player img{
@@ -275,7 +273,6 @@ header{
     align-items: center;
     margin-bottom: 70px;
     color: black;
-    outline: 2px solid red;
 }
 .top-left p{
     font-size: 16px;
@@ -305,7 +302,6 @@ header{
 }
 .live-info{
     margin: 10px;
-    outline: 2px solid #E02C6D;
     padding: 10px;
 
 }
